@@ -1,0 +1,118 @@
+body {
+
+    font-family: Tahom;
+
+    margin: 0;
+
+    background-color: voilet;
+
+}
+
+/* Header */
+
+header {
+
+    background-color:violet;
+
+    color: black;
+
+    padding: 20px;
+
+    text-align: center;
+  
+    font-family: Tahom;
+}
+
+nav a {
+
+    color: black;
+
+    margin: 10px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+   
+    font-family: Tahom;
+
+}
+
+/* Main Content */
+
+main {
+
+    padding: 20px;
+
+}
+
+section, article {
+
+    background-color: Beige;
+
+    padding: 20px;
+
+    margin-bottom: 20px;
+
+    border-radius: 8px;
+
+}
+
+/* Form */
+
+form {
+
+    display: flex;
+
+    flex-direction: column;
+
+    width: 300px;
+
+}
+
+label {
+
+    margin-top: 10px;
+
+}
+
+input, select, button {
+
+    padding: 8px;
+
+    margin-top: 5px;
+
+}
+
+button {
+
+    background-color:brown;
+
+    color: white;
+
+    border: none;
+
+    cursor: pointer;
+
+    margin-top: 15px;
+
+}
+
+button:hover {
+
+    background-color:Green;
+
+}
+
+/* Footer */
+
+footer {
+
+    background-color:black;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 15px;
+
+}
